@@ -27,6 +27,9 @@ This program requires Visual Studio 2019 or later to be installed on your machin
 Here's an example of how to use the program:
 
 Enter the longitude -122.4194 in the "Longitude" input field.
+
 Enter the latitude 37.7749 in the "Latitude" input field.
+
 Click the "Get Temperature" button.
+
 The program will display the forecasted temperature for next Wednesday night, such as 56°F, in the text box.
