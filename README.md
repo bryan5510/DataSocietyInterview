@@ -1,15 +1,15 @@
 # DataSocietyInterview
 
-##Temperature Forecast
+## Temperature Forecast
 This C# program takes in a longitude and latitude and returns the temperature forecasted for the next Wednesday night.
 
-##Input
+## Input
 The program requires two inputs: a longitude and a latitude. The longitude should be a valid between 180 and -180, the latitude between 90 and -90. The maximum accuracy allowed is 4 decimal places. 
 
-##Output
+## Output
 The program will output the forecasted temperature for the next Wednesday night, in degrees Fahrenheit.
 
-##Usage
+## Usage
 To use the program, follow these steps:
 
 1. CLick on the *Code* button, and download the zip file.
@@ -20,10 +20,10 @@ To use the program, follow these steps:
 
 The program will display the forecasted temperature for the next Wednesday night in the text box on the user interface.
 
-##Prerequisites
+## Prerequisites
 This program requires Visual Studio 2019 or later to be installed on your machine.
 
-##Examples
+## Examples
 Here's an example of how to use the program:
 
 Enter the longitude -122.4194 in the "Longitude" input field.
